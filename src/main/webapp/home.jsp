@@ -8,7 +8,7 @@
 </head>
 <body>
 <form action="add">
-<input type="text" name = "t1"><br>
+<input type="text" name = "username"><br>
 <input type="password" name = "pass"><br> 
 <input type="submit" name = "submit"><br>
 </form>
